@@ -1,0 +1,13 @@
+Dayana Arencibia,99586959684,Viñales,1,dirigente,2
+Betsy Llanes,99568458458,Republica Democrática de Sandino,5,obrero,3
+Ernesto León,00012124125,Reino Confederado de las Minas,5,obrero,3
+Dayana Laza,97859545845,La Habana,11,dirigente,1
+Víctor Omar Vento,00705622425,Pinar del Río,5,dirigente,2
+Yadiel Robaina,99568458458,Herradura,1,dirigente,2
+Lionel Messi,86845845888,Barcelona,99,obrero,2
+Jon Snow,11254254122,Más Allá del Muro,99,obrero,1
+Sheldon J. Cooper,98568744544,TBBT,99,dirigente,2
+Steve Jobs,45216845874,Cupertino,50,dirigente,2
+Juanita,99878698744,ferro 400,2,obrero,2
+Rey de la noche,00080909878,En mi corazon,99,dirigente,2
+Khal Drogo,69992606508,598,45,dirigente,2

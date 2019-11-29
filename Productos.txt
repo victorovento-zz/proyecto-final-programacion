@@ -1,0 +1,17 @@
+Ron Alabao,10/5/2018,10/6/2019,584965,70.0,8,Nacionales,11
+Vino Seco,10/5/2018,10/6/2019,7598745,70.0,8,Nacionales,11
+Vino de Pasas,10/5/2018,10/6/2019,125874,70.0,8,Nacionales,11
+Jugo de Piña,10/5/2018,10/6/2019,963258,70.0,8,Nacionales,11
+Champagne,10/5/2018,10/7/2018,154872,100.0,30,Exportacion,2
+Jugo de Abduzcan,10/5/2018,10/7/2018,100.0,100.0,30,Exportacion,2
+Coca Cola,10/5/2018,10/7/2018,846265,100.0,30,Exportacion,2
+Pepsi,10/9/17,10/5/2018,169753,100.00,7,Exportacion,2
+Sidra,10/9/17,10/5/2018,967429,100.00,7,Exportacion,2
+Sira Rosa,10/9/17,10/5/2018,183729,100.0,7,Exportacion,2
+Vino Cubano,10/9/19,10/5/2018,325698,70.0,15,Nacionales,Liberada
+Guarfarina,2/2/2020,19/7/2018,741258,70.0,10,Nacionales,Liberada
+Refresco de Cola,15/3/2018,951753,15/3/2017,70.0,3,Nacionales,Libre
+Refresco Coral,7/1/2015,8/12/2009,189765,50.0,2,Exportacion,1
+Agua,10/2/2016,10/5/2018,127846,90.0,3,Exportacion,3
+Agua de Coco,12/5/2014,12/8/2018,123482,12.5,500,Nacionales,Liberada
+Fanta,15-4-2015,16-9-2020,871935,50.0,3,Exportacion,2
